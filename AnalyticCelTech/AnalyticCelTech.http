@@ -1,0 +1,6 @@
+@AnalyticCelTech_HostAddress = http://localhost:5206
+
+GET {{AnalyticCelTech_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
