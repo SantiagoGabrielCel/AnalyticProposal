@@ -4,6 +4,7 @@ using AnalyticCelTech.Infrastructure.Files;
 using AnalyticCelTech.Infrastructure.IA;
 
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 
